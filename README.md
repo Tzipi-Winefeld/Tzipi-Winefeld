@@ -3,8 +3,8 @@
 <h3>These are the technologies in which I specialize-</h3>
 REST Git GitHub IntelliJ Visual Studio Code eclipse Postman Jupyter Notebook HTML CSS Bootstrap Swagger JavaScript Angular React TypeScript npm Node.js Express Redux Vite Java Maven Hibernate C C++ C# .NET Core Python mongoDB MSSQL Linux
 <div style="display: flex;">
-<img src='https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png' width='5%' height='30px' />
-<img src='https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png' width='5%' height='30px' />
+<img src='https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png' width='5%' height='40px' style="margin-right: 10px;" />
+<img src='https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png' width='5%' height='40px' />
 <img src='https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png' width='5%' height='30px' />
 <img src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png' width='5%' height='30px' />
 <img src='https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png' width='5%' height='30px' />
