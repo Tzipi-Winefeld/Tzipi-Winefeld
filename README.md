@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Tzipi-Winefeld
 - 📫 tzipi974@gmail.com
+<!---
 <h3>These are the technologies in which I specialize-</h3>
+--->
 
 <!---
 <div align="center">
