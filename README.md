@@ -5,7 +5,6 @@
 <h3>About me </h3>
 FullStack Developer with sharp analytical thinking, quick learning ability, and advanced technological skills. Passionate about mastering new technologies and solving problems in-depth. Strong desire to grow and advance professionally.
 
-
  <h3>My skills</h3> 
  <div align="center">
 <!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code> -->
@@ -41,3 +40,10 @@ FullStack Developer with sharp analytical thinking, quick learning ability, and 
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
+
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tzipi-Winefeld&show_icons=true&locale=en&layout=compact" alt="Tzipi-Winefeld" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tzipi-Winefeld&show_icons=true&locale=en" alt="Tzipi-Winefeld" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tzipi-Winefeld&" alt="Tzipi-Winefeld" /></p>-->
