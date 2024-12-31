@@ -1,11 +1,12 @@
 
 <h2 align="center">👋 Hi , I'm Tzipi Winefeld</h2>
 <h3 align="center">    Full Stack Developer</h3>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tzipi-Winefeld&label=Profile%20views&color=0e75b6&style=flat" alt="Tzipi-Winefeld" /> </p>-->
 
 <h3>About me </h3>
 FullStack Developer with sharp analytical thinking, quick learning ability, and advanced technological skills. Passionate about mastering new technologies and solving problems in-depth. Strong desire to grow and advance professionally.
 
- <h3>My skills</h3> 
+<h3>My skills</h3> 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
@@ -39,10 +40,18 @@ FullStack Developer with sharp analytical thinking, quick learning ability, and 
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 
+<h3>Github Status</h3> 
 
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; margin: 10px;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tzipi-Winefeld&show_icons=true&locale=en&layout=compact" alt="Tzipi-Winefeld" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tzipi-Winefeld&show_icons=true&locale=en" alt="Tzipi-Winefeld" /></p>
+  <p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tzipi-Winefeld&show_icons=true&locale=en" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tzipi-Winefeld" alt="GitHub Streak Stats" />
+  </p>
+   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tzipi-Winefeld&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </p>
 </div>
+
 
