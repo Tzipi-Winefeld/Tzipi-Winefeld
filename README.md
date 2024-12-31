@@ -40,18 +40,13 @@ FullStack Developer with sharp analytical thinking, quick learning ability, and 
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 
-<h3>Github Status</h3> 
+### My GitHub Stats
+---
+<div align="center">
 
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; margin: 10px;">
-  <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tzipi-Winefeld&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tzipi-Winefeld" alt="GitHub Streak Stats" />
-  </p>
-   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tzipi-Winefeld&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tzipi-Winefeld&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tzipi-Winefeld&show_icons=true&locale=en) |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tzipi-Winefeld)
+
 </div>
-
-
