@@ -44,8 +44,10 @@ FullStack Developer with sharp analytical thinking, quick learning ability, and 
 ---
 <div align="center">
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tzipi-Winefeld&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tzipi-Winefeld&show_icons=true&locale=en) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tzipi-Winefeld) |
-|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tzipi-Winefeld&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tzipi-Winefeld&show_icons=true&locale=en) |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tzipi-Winefeld)
 
 </div>
 
